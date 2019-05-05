@@ -1,5 +1,11 @@
 # Hackintosh Clover Configuration
 
+## External Resources
+This config is based on the following resources
+
+- r/hackintosh Vanilla guide https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/
+- cmer's installation guide for z390 aorus master motherboards https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh
+
 ## My Setup
 
 [PCPartPicker Part List](https://pcpartpicker.com/list/xzgjxG)
@@ -16,3 +22,17 @@ Type|Item
 **Case** | [Fractal Design - Core 500 Mini ITX Desktop Case](https://pcpartpicker.com/product/LvnG3C/fractal-design-case-fdcacore500bk)
 **Power Supply** | [Cooler Master - VSM 650 W 80+ Gold Certified Semi-Modular ATX Power Supply](https://pcpartpicker.com/product/LhR48d/cooler-master-power-supply-rs650amaag1) |-
 **Monitor** | [LG - 27UD68-W 27.0" 3840x2160 60 Hz Monitor](https://pcpartpicker.com/product/JhkwrH/lg-monitor-27ud68w)
+
+## What's Working and What's Not
+
+### Working
+
+- Ethernet
+- Audio
+- APFS
+- All USB ports (including USB 3 and USB C)
+- App Store
+
+### Not working
+
+- Integrated Wifi and Bluetooth
