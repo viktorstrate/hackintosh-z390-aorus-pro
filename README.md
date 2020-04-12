@@ -5,6 +5,7 @@ This config is based on the following resources
 
 - r/hackintosh Vanilla guide https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/
 - cmer's installation guide for z390 aorus master motherboards https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh
+- Notes and troubleshooting for z390 motherboards https://hackintosher.com/guides/get-z390-motherboards-working-hackintosh/
 
 ## My Setup
 
