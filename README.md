@@ -32,6 +32,7 @@ Type|Item
 - APFS
 - All USB ports (including USB 3 and USB C)
 - App Store
+- Sidecar
 
 ### Not working
 
